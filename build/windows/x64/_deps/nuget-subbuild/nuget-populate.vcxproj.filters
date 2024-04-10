@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\427619254f678fc971a26ebd48da0495\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\e7af6e836dc8c5de973b5c5a53b714d7\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b5405a065cac58efe59168b3e0e86336\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Flutter_rtx\term_project\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5A49C698-E3D3-3B77-B78B-0F2455C94520}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

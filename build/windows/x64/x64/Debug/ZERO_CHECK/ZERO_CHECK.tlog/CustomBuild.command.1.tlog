@@ -1,0 +1,10 @@
+^D:\FLUTTER_RTX\TERM_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\FC2E6EAB88E42B5C9D35E712B2645AF3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Flutter_rtx/term_project/windows -BD:/Flutter_rtx/term_project/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Flutter_rtx/term_project/build/windows/x64/term_project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
