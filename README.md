@@ -1,4 +1,4 @@
-# term_project
+# Weather Forecast Application
 
 A new Flutter project.
 
